@@ -21,3 +21,9 @@ section{
     opacity: 1;
     filter: contrast(120%);
   }
+
+  h1{
+    text-align: center;
+    text-decoration: dashed;
+
+  }
